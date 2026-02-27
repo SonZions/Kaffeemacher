@@ -1,0 +1,5 @@
+{
+  "machine_ip": "192.168.1.XXX",
+  "dsn": "DEIN_DEVICE_SERIAL_NUMBER",
+  "lan_key": "DEIN_LAN_KEY"
+}
